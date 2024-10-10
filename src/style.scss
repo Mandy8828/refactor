@@ -1,0 +1,14 @@
+/* 你可以在這裡繼續添加 SCSS 內容 */
+$primary-color: #015c61;
+
+body {
+  font-family: "Arial", sans-serif;
+}
+
+button {
+  background-color: $primary-color;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+}
